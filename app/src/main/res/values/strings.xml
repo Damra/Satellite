@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Satellite</string>
+    <string name="satellite_active">Active</string>
+    <string name="satellite_passive">Passive</string>
+    <string name="fragment_satellite_search_term">Search..</string>
+    <string name="fragment_satellite_list_empty">No data</string>
+    <string name="fragment_satellite_detail_height_mass"><![CDATA[<big>Height/Mass:</big><small>%s/%s</small>]]></string>
+    <string name="fragment_satellite_detail_cost"><![CDATA[<big>Cost:</big><small>%s</small>]]></string>
+    <string name="fragment_satellite_last_position"><![CDATA[<big>Last Position:</big><small>(%s,%s)</small>]]></string>
+</resources>
