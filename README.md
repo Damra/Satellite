@@ -2,10 +2,7 @@
 
 Android - Koin - Coroutines - Flow - Live Data - MVVM
 
-![GitHub Cards Preview](https://github.com/Damra/Satellite/blob/main/screenshots/satellite_list.png)
-![GitHub Cards Preview](https://github.com/Damra/Satellite/blob/main/screenshots/satellite_list_search_result.png)
-![GitHub Cards Preview](https://github.com/Damra/Satellite/blob/main/screenshots/satellite_list_search_result_empty.png)
-![GitHub Cards Preview](https://github.com/Damra/Satellite/blob/main/screenshots/satellite_detail.png)
+![GitHub Cards Preview](https://github.com/Damra/Satellite/blob/main/screenshots/screenshots.png)
 
 # Satellite
 
