@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Satellite</string>
+    <string name="satellite_active">Active</string>
+    <string name="satellite_passive">Passive</string>
+    <string name="fragment_satellite_search_term">Search..</string>
+    <string name="fragment_satellite_list_empty">No data</string>
+    <string name="fragment_satellite_detail_height_mass"><b>Height/Mass:</b>%s</string>
+    <string name="fragment_satellite_detail_cost"><b>Cost:</b>%s</string>
+    <string name="fragment_satellite_last_position"><b>Last Position:</b>(%s,%s)</string>
+</resources>

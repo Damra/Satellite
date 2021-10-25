@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="github.damra.android.satellite.view.list.SatelliteListFragment"
+        android:label="fragment_satellite_list"
+        tools:layout="@layout/fragment_satellite_list">
+        <action
+            android:id="@+id/action_homeFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="github.damra.android.satellite.view.detail.SatelliteDetailFragment"
+        android:label="fragment_detail"
+        tools:layout="@layout/fragment_satellite_detail">
+        <argument
+            android:name="satelliteListItem"
+            app:argType="github.damra.android.satellite.model.SatelliteListItem" />
+        <argument
+            android:name="satelliteDetail"
+            app:argType="github.damra.android.satellite.model.SatelliteDetail" />
+    </fragment>
+</navigation>
