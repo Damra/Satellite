@@ -2,12 +2,10 @@
 
 Android - Koin - Coroutines - Flow - Live Data - MVVM
 
-![GitHub Cards Preview](https://github.com/Damra/Satellite/blob/main/screenshots/screenshots.png)
-
-# Satellite
-
 Satellite is a simple project to study and play with some android components, architecture and tools
 for Android development.
+
+![GitHub Cards Preview](https://github.com/Damra/Satellite/blob/main/screenshots/screenshots.png)
 
 ## Development setup
 
